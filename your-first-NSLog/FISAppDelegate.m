@@ -6,11 +6,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
-    /**
+     NSLog(@"Hello, World!");
     
-     * Hey! Write your code here! :D
-     
-     */
     
     // do not alter
     return YES;  //
